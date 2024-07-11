@@ -34,9 +34,6 @@ def late_released_movies(db):
     return results
 
 
-    pass  # YOUR CODE HERE
-
-
 def stats_on(db, genre_name):
     '''return a dict of stats for a given genre
     total count of movies and the average duration'''
